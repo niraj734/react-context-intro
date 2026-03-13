@@ -1,1 +1,1 @@
-`Global state sharing in React`
+# **Global state sharing in React**
